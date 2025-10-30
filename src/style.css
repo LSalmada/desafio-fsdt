@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header-section {
+    height: 368px;
+    background-color: #121214;
+}
+.container-form {
+    padding: 64px;
+    background-color: #FAFAFC;
+    border-radius: 10px;
+}
