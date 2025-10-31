@@ -26,6 +26,7 @@ section {
     border-radius: 10px;
     display: flex;
     flex-direction: column;
+    gap: 24px;
 }
 
 h1 {
@@ -34,4 +35,22 @@ h1 {
 }
 p {
     color: #fff;
+}
+
+.button-submit {
+    background-color: #DB1B1B;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.form-title {
+    font-size: 1.5rem;
+    color: #000;
+}
+
+.form-input {
+    height: 56px;
 }
